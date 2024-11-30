@@ -1,0 +1,241 @@
+[
+    {
+        "name": "Diabetes",
+        "description": "A condition characterized by high blood sugar levels.",
+        "category": "Chronic",
+        "symptoms": [
+            "Increased thirst",
+            "Frequent urination",
+            "Fatigue"
+        ],
+        "causes": [
+            "Genetics",
+            "Obesity"
+        ],
+        "precautions": [
+            "Healthy diet",
+            "Regular exercise"
+        ],
+        "medicines": [
+            "Metformin",
+            "Insulin"
+        ]
+    },
+    {
+        "name": "Hypertension",
+        "description": "A condition where the blood pressure in the arteries is persistently elevated.",
+        "category": "Chronic",
+        "symptoms": [
+            "Headaches",
+            "Shortness of breath",
+            "Nosebleeds"
+        ],
+        "causes": [
+            "Obesity",
+            "Genetic factors"
+        ],
+        "precautions": [
+            "Low-salt diet",
+            "Regular exercise"
+        ],
+        "medicines": [
+            "Lisinopril",
+            "Amlodipine"
+        ]
+    },
+    {
+        "name": "Influenza",
+        "description": "A viral infection that attacks the respiratory system.",
+        "category": "Infectious",
+        "symptoms": [
+            "Fever",
+            "Cough",
+            "Sore throat",
+            "Body aches"
+        ],
+        "causes": [
+            "Influenza virus"
+        ],
+        "precautions": [
+            "Annual vaccination",
+            "Good hygiene practices"
+        ],
+        "medicines": [
+            "Antivirals (like Oseltamivir)"
+        ]
+    },
+    {
+        "name": "Tuberculosis (TB)",
+        "description": "A potentially serious infectious disease that mainly affects the lungs.",
+        "category": "Infectious",
+        "symptoms": [
+            "Coughing",
+            "Chest pain",
+            "Coughing up blood",
+            "Weight loss"
+        ],
+        "causes": [
+            "Mycobacterium tuberculosis bacteria"
+        ],
+        "precautions": [
+            "Vaccination (BCG)",
+            "Good ventilation"
+        ],
+        "medicines": [
+            "Antibiotics (like Isoniazid, Rifampicin)"
+        ]
+    },
+    {
+        "name": "COVID-19",
+        "description": "A viral infection caused by the coronavirus SARS-CoV-2.",
+        "category": "Infectious",
+        "symptoms": [
+            "Fever",
+            "Cough",
+            "Shortness of breath",
+            "Loss of taste or smell"
+        ],
+        "causes": [
+            "SARS-CoV-2 virus"
+        ],
+        "precautions": [
+            "Vaccination",
+            "Wearing masks",
+            "Social distancing"
+        ],
+        "medicines": [
+            "Antivirals (like Remdesivir)"
+        ]
+    },
+    {
+        "name": "Diabetes Mellitus",
+        "description": "A metabolic disorder characterized by high blood sugar levels.",
+        "category": "Chronic",
+        "symptoms": [
+            "Increased thirst",
+            "Frequent urination",
+            "Extreme fatigue"
+        ],
+        "causes": [
+            "Insulin resistance or insufficient insulin production"
+        ],
+        "precautions": [
+            "Healthy diet",
+            "Regular exercise"
+        ],
+        "medicines": [
+            "Insulin",
+            "Metformin"
+        ]
+    },
+    {
+        "name": "Chronic Obstructive Pulmonary Disease (COPD)",
+        "description": "A group of lung diseases that block airflow.",
+        "category": "Chronic",
+        "symptoms": [
+            "Chronic cough",
+            "Mucus production",
+            "Shortness of breath"
+        ],
+        "causes": [
+            "Long-term exposure to irritants, often from smoking"
+        ],
+        "precautions": [
+            "Avoiding smoking",
+            "Regular exercise"
+        ],
+        "medicines": [
+            "Bronchodilators",
+            "Steroids"
+        ]
+    },
+    {
+        "name": "Asthma",
+        "description": "A chronic condition that inflames and narrows the airways.",
+        "category": "Chronic",
+        "symptoms": [
+            "Wheezing",
+            "Coughing",
+            "Chest tightness",
+            "Shortness of breath"
+        ],
+        "causes": [
+            "Allergens",
+            "Respiratory infections"
+        ],
+        "precautions": [
+            "Avoiding triggers",
+            "Using inhalers"
+        ],
+        "medicines": [
+            "Inhalers (bronchodilators)",
+            "Corticosteroids"
+        ]
+    },
+    {
+        "name": "Alzheimer's Disease",
+        "description": "A progressive neurological disorder that causes memory loss and cognitive decline.",
+        "category": "Neurological",
+        "symptoms": [
+            "Memory loss",
+            "Confusion",
+            "Difficulty completing familiar tasks"
+        ],
+        "causes": [
+            "Genetic factors",
+            "Age",
+            "Lifestyle"
+        ],
+        "precautions": [
+            "Mental stimulation",
+            "Social engagement"
+        ],
+        "medicines": [
+            "Cholinesterase inhibitors",
+            "Memantine"
+        ]
+    },
+    {
+        "name": "Cancer",
+        "description": "Uncontrolled growth of abnormal cells in the body.",
+        "category": "Cancer",
+        "symptoms": [
+            "Varies by type but can include weight loss",
+            "Fatigue",
+            "Pain"
+        ],
+        "causes": [
+            "Genetic mutations",
+            "Environmental factors"
+        ],
+        "precautions": [
+            "Avoiding tobacco",
+            "Healthy diet",
+            "Regular screenings"
+        ],
+        "medicines": [
+            "Chemotherapy",
+            "Radiation therapy"
+        ]
+    },
+    {
+        "name": "HIV",
+        "description": "A virus that attacks the immune system.",
+        "category": "Infectious",
+        "symptoms": [
+            "Flu-like symptoms",
+            "Weight loss",
+            "Recurrent infections"
+        ],
+        "causes": [
+            "Human Immunodeficiency Virus"
+        ],
+        "precautions": [
+            "Safe sex practices",
+            "Regular testing"
+        ],
+        "medicines": [
+            "Antiretroviral therapy"
+        ]
+    }
+]
